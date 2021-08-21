@@ -10,7 +10,7 @@
 
 
 Steps to Run the Automation scripts
-1. git clone 
+1. git clone https://github.com/sshankaregowda/gdrive.git
 2. Navigate to project root directory
 3. npm install
 4. npm run test
