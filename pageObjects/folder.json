@@ -1,0 +1,4 @@
+{
+    "fileUploadBtn": "//div[@data-tooltip='File upload']",
+    "uploadSuccessMsg": ".af-V"
+}

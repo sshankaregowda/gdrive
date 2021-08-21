@@ -1,0 +1,5 @@
+{
+    "usernameTxtbox": "//input[@type='email']",
+    "passwordTxtbox": "//input[@type='password']",
+    "nextBtn": "//span[contains(text(),'Next')]"
+}

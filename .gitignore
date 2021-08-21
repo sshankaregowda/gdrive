@@ -1,0 +1,5 @@
+screenshots/
+*.html
+node_modules/
+logs/
+testData/

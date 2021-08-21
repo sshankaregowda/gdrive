@@ -1,0 +1,8 @@
+{
+    "newBtn": "//button[@aria-label='New']",
+    "folderBtn": "//div[@data-tooltip='Folder']",
+    "folderNameTxtbox": ".lb-k-Kk",
+    "createBtn": "//button[@name='ok']",
+    "folder": "//div[@aria-label='Google Drive Folder']",
+    "folderName": ".Q5txwe"
+}
